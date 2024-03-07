@@ -20,8 +20,25 @@
 ## Live site url 🎯 <br>
 
 <ul>
-  <li><a href="">CLICK HERE</a></li>
-</ul>
+  <li><a href="https://0xabdul.github.io/WhatsApp-Clone/">CLICK HERE</a></li>
+</ul><br>
 
+## Tools are used 🕹️ <br>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+
+<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></img>
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img><br>
+
+## Author<br>
+- GITHUB - [@0xabdul](https://github.com/0xabdul)<br>
+
+
+
+
+ 
 
 
